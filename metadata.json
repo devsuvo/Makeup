@@ -1,0 +1,6 @@
+{
+  "name": "Suvo Dev Makeup Studio",
+  "description": "A luxury makeup artist portfolio website for Suvo Dev, specializing in bridal, editorial, and luxury beauty experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
